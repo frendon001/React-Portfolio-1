@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/jerry4905/React-Portfolio/static/css/main.d0c84f4e.chunk.css",
-    "main.js": "/jerry4905/React-Portfolio/static/js/main.4e10077a.chunk.js",
-    "main.js.map": "/jerry4905/React-Portfolio/static/js/main.4e10077a.chunk.js.map",
-    "runtime-main.js": "/jerry4905/React-Portfolio/static/js/runtime-main.d49c6888.js",
-    "runtime-main.js.map": "/jerry4905/React-Portfolio/static/js/runtime-main.d49c6888.js.map",
-    "static/css/2.27dd871e.chunk.css": "/jerry4905/React-Portfolio/static/css/2.27dd871e.chunk.css",
-    "static/js/2.05cb5307.chunk.js": "/jerry4905/React-Portfolio/static/js/2.05cb5307.chunk.js",
-    "static/js/2.05cb5307.chunk.js.map": "/jerry4905/React-Portfolio/static/js/2.05cb5307.chunk.js.map",
-    "index.html": "/jerry4905/React-Portfolio/index.html",
-    "static/css/2.27dd871e.chunk.css.map": "/jerry4905/React-Portfolio/static/css/2.27dd871e.chunk.css.map",
-    "static/css/main.d0c84f4e.chunk.css.map": "/jerry4905/React-Portfolio/static/css/main.d0c84f4e.chunk.css.map",
-    "static/js/2.05cb5307.chunk.js.LICENSE.txt": "/jerry4905/React-Portfolio/static/js/2.05cb5307.chunk.js.LICENSE.txt",
-    "static/media/Jerry.5bfc7137.jpeg": "/jerry4905/React-Portfolio/static/media/Jerry.5bfc7137.jpeg",
-    "static/media/TimedQuiz.6d696a8d.JPG": "/jerry4905/React-Portfolio/static/media/TimedQuiz.6d696a8d.JPG",
-    "static/media/password_generator.7ebd9796.JPG": "/jerry4905/React-Portfolio/static/media/password_generator.7ebd9796.JPG",
-    "static/media/pointless_adventures.46e86fc1.JPG": "/jerry4905/React-Portfolio/static/media/pointless_adventures.46e86fc1.JPG",
-    "static/media/todolist.0099e7a2.JPG": "/jerry4905/React-Portfolio/static/media/todolist.0099e7a2.JPG",
-    "static/media/weather_dashboard.090e9a38.JPG": "/jerry4905/React-Portfolio/static/media/weather_dashboard.090e9a38.JPG",
-    "static/media/workdayscheduler.fb2ad65d.JPG": "/jerry4905/React-Portfolio/static/media/workdayscheduler.fb2ad65d.JPG"
+    "main.css": "/React-Portfolio/static/css/main.af661fa3.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.a8640dc3.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.a8640dc3.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.24514994.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.24514994.js.map",
+    "static/css/2.27dd871e.chunk.css": "/React-Portfolio/static/css/2.27dd871e.chunk.css",
+    "static/js/2.05cb5307.chunk.js": "/React-Portfolio/static/js/2.05cb5307.chunk.js",
+    "static/js/2.05cb5307.chunk.js.map": "/React-Portfolio/static/js/2.05cb5307.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/React-Portfolio/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.af661fa3.chunk.css.map": "/React-Portfolio/static/css/main.af661fa3.chunk.css.map",
+    "static/js/2.05cb5307.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.05cb5307.chunk.js.LICENSE.txt",
+    "static/media/Jerry.5bfc7137.jpeg": "/React-Portfolio/static/media/Jerry.5bfc7137.jpeg",
+    "static/media/TimedQuiz.6d696a8d.jpg": "/React-Portfolio/static/media/TimedQuiz.6d696a8d.jpg",
+    "static/media/budgetTracker.2e9ac5fc.jpg": "/React-Portfolio/static/media/budgetTracker.2e9ac5fc.jpg",
+    "static/media/password_generator.7ebd9796.jpg": "/React-Portfolio/static/media/password_generator.7ebd9796.jpg",
+    "static/media/pointless_adventures.46e86fc1.jpg": "/React-Portfolio/static/media/pointless_adventures.46e86fc1.jpg",
+    "static/media/todolist.0099e7a2.jpg": "/React-Portfolio/static/media/todolist.0099e7a2.jpg",
+    "static/media/weather_dashboard.090e9a38.jpg": "/React-Portfolio/static/media/weather_dashboard.090e9a38.jpg",
+    "static/media/workdayscheduler.fb2ad65d.jpg": "/React-Portfolio/static/media/workdayscheduler.fb2ad65d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d49c6888.js",
+    "static/js/runtime-main.24514994.js",
     "static/css/2.27dd871e.chunk.css",
     "static/js/2.05cb5307.chunk.js",
-    "static/css/main.d0c84f4e.chunk.css",
-    "static/js/main.4e10077a.chunk.js"
+    "static/css/main.af661fa3.chunk.css",
+    "static/js/main.a8640dc3.chunk.js"
   ]
 }
